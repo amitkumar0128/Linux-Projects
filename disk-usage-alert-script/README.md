@@ -36,6 +36,4 @@ crontab -e
 0 * * * * /path/to/disk_alert.sh 80 # Add this line to run it hourly
 ```
 
-## 👨‍💻 Author
-
-Your Name – Amitkumar
+## 👨‍💻 Author - Amitkumar
