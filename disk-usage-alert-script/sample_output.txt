@@ -1,0 +1,5 @@
+Ubuntu@Ubuntu:~/projects/Linux-Projects/disk-usage-alert-script$ ./disk_alert.sh
+⚠️ WARNING: snapfuse at /snap/snapd/24505 is 100% full.
+⚠️ WARNING: snapfuse at /snap/snapd/23771 is 100% full.
+⚠️ WARNING: snapfuse at /snap/code/191 is 100% full.
+⚠️ WARNING: snapfuse at /snap/core20/2501 is 100% full.
