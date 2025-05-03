@@ -25,13 +25,13 @@ users.csv must be in the same folder
 
 ## 💡 Improvements
  
--Generate strong passwords automatically
+- Generate strong passwords automatically
 
--Save passwords to a secure file
+- Save passwords to a secure file
 
--Add user to specific groups
+- Add user to specific groups
 
--Add logging to a file
+- Add logging to a file
 
 ## 📂 Sample Output
 ```
