@@ -1,0 +1,5 @@
+ubuntu@Ubuntu:~/projects/Linux-Projects/user-account-creator$ sudo ./user_creator.sh
+[sudo] password for ubuntu:
+✅ User john created successfully.
+✅ User alice created successfully.
+✅ User bob created successfully.
