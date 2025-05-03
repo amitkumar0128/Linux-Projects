@@ -8,6 +8,7 @@ A simple Bash script to create Linux user accounts from a CSV file.
 username,password
 john,SecureP@ss1
 alice,StrongP@ss2
+```
 
 ## 🚀 Usage
 
@@ -19,13 +20,17 @@ sudo ./user_creator.sh
 ## ⚠️ Requirements
 
 Run as root or with sudo
+
 users.csv must be in the same folder
 
 ## 💡 Improvements
  
 -Generate strong passwords automatically
+
 -Save passwords to a secure file
+
 -Add user to specific groups
+
 -Add logging to a file
 
 ## 📂 Sample Output
