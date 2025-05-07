@@ -49,7 +49,7 @@ chmod +x health_monitor.sh
 
 ## Sample Output
 
-```
+```yaml
 === 🖥️ SERVER HEALTH CHECK 2025-05-07 17:10:00 ===
 🧠 CPU Usage: 15.3 %
 🧠 Memory Usage: 720/7947 MB (9.06%)
