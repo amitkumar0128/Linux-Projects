@@ -1,0 +1,35 @@
+=== 🖥️ SERVER HEALTH CHECK 2025-05-07 10:48:15 ===
+CPU Usage: 0 %
+
+Memory Usage: 651/3810 MB (17.09%)
+
+Disk Usage:
+none            1.9G     0  1.9G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         300G  118G  182G  40% /usr/lib/wsl/drivers
+/dev/sdc       1007G  4.1G  952G   1% /
+none            1.9G  108K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.4M  1.9G   1% /init
+none            1.9G  804K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             300G  118G  182G  40% /mnt/c
+D:\             177G   99M  177G   1% /mnt/d
+snapfuse         64M   64M     0 100% /snap/core20/2571
+snapfuse        317M  317M     0 100% /snap/code/191
+snapfuse         64M   64M     0 100% /snap/core20/2501
+snapfuse         51M   51M     0 100% /snap/snapd/24505
+snapfuse         45M   45M     0 100% /snap/snapd/23771
+
+Uptime: up 2 hours, 8 minutes
+
+Load Average (1m 5m 15m): 0.00 0.00 0.00 
+
+Logged-in Users: 1
+
+Running Processes: 33
+
+ 
