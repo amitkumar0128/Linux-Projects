@@ -75,12 +75,14 @@ Matching lines: 24
 
 You can now specify a log type for more structured output:
 
-| Type	| Description |
-| syslog	| Extracts date, host, process, message |
-| apache	| Extracts IP, URL path, and status code |
+| Type       | Description                                    |
+|------------|------------------------------------------------|
+| syslog     | Extracts date, host, process, message          |
+| apache     | Extracts IP, URL path, and status code         |
 
 ### Example Usage
 
+For system logs
 ```bash
 ./analyze_logs.sh /var/log/syslog ssh --type=syslog
 ```
@@ -89,6 +91,7 @@ Output:
 📅 May 07 10:12:30 | 🖥️ myhost | ⚙️ sshd[3456]: | 💬 Failed password for root
 ```
 
+For Apache logs
 ```bash
 ./analyze_logs.sh apache_access.log GET --type=apache
 ```
