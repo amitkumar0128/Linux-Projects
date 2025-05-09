@@ -68,7 +68,6 @@ Linux-Projects/
 ---
 
 ## 👨‍💻 Author
-Amitkumar
-Aspiring Cloud/DevOps Engineer
+**Amitkumar** - Aspiring Cloud/DevOps Engineer
 
 ---
